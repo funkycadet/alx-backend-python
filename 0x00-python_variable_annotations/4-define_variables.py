@@ -5,6 +5,6 @@ function to define and annotate given variables with specified values
 """
 
 a: int = 1
-pi: float = 3.41
+pi: float = 3.14
 i_understand_annotations: bool = True
 school: str = "Holberton"
