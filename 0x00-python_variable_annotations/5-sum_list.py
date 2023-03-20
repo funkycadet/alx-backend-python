@@ -7,7 +7,7 @@ from typing import List
 
 def sum_list(input_lists: List[float]) -> float:
     """
-    function to return the string representation of a given float argument
+    function to return the sum of a list of floats as float
     """
     sum_list = 0
     for i in input_lists:
